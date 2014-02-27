@@ -12,5 +12,5 @@ You can get in touch with me via [Twitter](http://twitter.com/alebianco) or you 
 I develop and maintain a series of open projects ranging from AIR extension, AS3 libraries and IntelliJ plugins.
 
 You can get a full list from my [Github profile](https://github.com/alebianco?tab=repositories) but here's a list of the one I'm most proud of:
-* [AIR Native Extension for Google Analytics](http://alebianco.github.io/ANE-Google-Analytics/)
-* [Bugzilla tasks provider plugin for IntelliJ](alebianco.github.io/bugzilla-intellij-task-provider/)
+* [AIR Native Extension for Google Analytics](/ANE-Google-Analytics)
+* [Bugzilla tasks provider plugin for IntelliJ](/bugzilla-intellij-task-provider)
